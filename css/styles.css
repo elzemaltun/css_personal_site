@@ -1,0 +1,140 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    color: #4B4B4B;
+}
+
+h1{
+    /* margin-block-start: 0em; */
+    margin-top: 50px;
+    font-size: 4.2rem;
+    /* font-family: 'Bakbak One', cursive; */
+    font-family: 'Limelight', cursive;
+    /* font-family: 'ZCOOL QingKe HuangYou', sans-serif; */
+    /* font-family: 'Clicker Script', cursive; */
+    color: #4E9CA3;
+}
+
+h2{
+    font-size: 2.1rem;
+    color: #4E9CA3;
+    font-weight: normal;
+}
+
+h3{
+    color:#6D9FA1;
+}
+
+p{
+    line-height: 2;
+}
+
+hr{
+    border-style: dotted none none;
+    border-width: 7px;
+    border-color: #E9BFCB; 
+    width: 3%;
+    margin: 50px auto;
+}
+
+a{  font-family: 'Roboto', sans-serif;
+    color: #4B4B4B;
+    text-decoration: none;
+
+}
+a:hover{
+    color:#EAF6F6
+}
+
+.top-container{
+    background-color: #abd0d1;;
+    padding-top: 100px;
+    position: relative;
+}
+
+.middle-container{
+    margin: 100px auto;
+}
+
+
+
+.intro{
+    width: 40%;
+    margin: auto;
+}
+
+.skills{
+    margin-top:50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+}
+
+.outro{
+    width: 30%;
+    margin: 30px auto 65px; 
+}
+
+
+.bottom-container{
+    background-color: #74b6bb;
+    padding: 40px;
+}
+
+.footer-link{
+    color: #4E9CA3;
+    text-decoration: none;
+    margin: 20px;
+    font-weight: bold;
+}
+.footer{
+    color:#EAF6F6;
+    font-size: 0.8rem;
+}
+
+
+
+.top-cloud{
+    padding-bottom: 0px;
+    position: absolute;
+    right: 200px;
+    width: 150px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 200px;
+    width: 150px;
+}
+.profile-pic{
+    width: 15%
+}
+
+.coding{
+    width: 25%;
+    float: left;
+    padding-right: 30px;
+}
+.education{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn {
+    -webkit-border-radius: 12;
+    -moz-border-radius: 12;
+    border-radius: 12px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #74b6bb;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #3cb0fd;
+    text-decoration: none;
+  }
